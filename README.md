@@ -1,4 +1,4 @@
-# Second Brain — a project vault for you and your AI agent
+# Second Brain: a project vault for you and your AI agent
 
 A ready-made [Obsidian](https://obsidian.md) structure that turns your notes into a second brain an AI agent can read and write. Download it, open it as a vault, fill it with your project — and your agent works from your context instead of guessing.
 
