@@ -2,7 +2,7 @@
 
 A ready-made [Obsidian](https://obsidian.md) structure that turns your notes into a second brain an AI agent can read and write. Download it, open it as a vault, fill it with your project — and your agent works from your context instead of guessing.
 
-Built by [Pavel Sikorsky](https://sikorsky.design). The thinking behind it: [sikorsky.design/second-brain](https://sikorsky.design/second-brain/).
+Built by [Paul Sikorsky](https://sikorsky.design). The thinking behind it: [sikorsky.design/second-brain](https://sikorsky.design/second-brain/).
 
 ## Why
 
@@ -70,8 +70,8 @@ Full walkthrough: [sikorsky.design/second-brain](https://sikorsky.design/second-
 
 ## License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use it freely, including commercially, adapt it however you like; just credit Pavel Sikorsky and link back. See `LICENSE`.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use it freely, including commercially, adapt it however you like; just credit Paul Sikorsky and link back. See `LICENSE`.
 
 ---
 
-Made by Pavel Sikorsky while building **[Baselife](https://baselife.me)** — a journal and life calendar for living with more intention. More on life design, mindful productivity, and building in public: [t.me/initsrightplace](https://t.me/initsrightplace).
+Made by Paul Sikorsky while building **[Baselife](https://baselife.me)** — a journal and life calendar for living with more intention. More on life design, mindful productivity, and building in public: [t.me/initsrightplace](https://t.me/initsrightplace).
