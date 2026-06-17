@@ -1,0 +1,13 @@
+# Obsidian workspace state — conflict generators
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.bak
+.obsidian/cache
+
+# OS junk
+.DS_Store
+.trash/
+*.tmp
+
+# Secrets
+.env
