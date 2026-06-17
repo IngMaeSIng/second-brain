@@ -46,7 +46,7 @@ Every domain folder ships with an **index note** that doubles as documentation �
 
 1. **Download** this repo as a ZIP (green *Code* button → *Download ZIP*) and unzip it. Rename the folder to your project if you like.
 2. **Open** Obsidian → *Open folder as vault* → select the folder.
-3. **Enable plugins** (Settings → Community plugins): **Dataview** (required — the indexes use it), **Templater** (note templates), and **Obsidian Git** if you'll sync via GitHub.
+3. **Enable plugins.** Turn on the built-in **Templates** core plugin (Settings → Core plugins) and set its template folder to `16. Meta/Templates`. Install the **Dataview** community plugin (Settings → Community plugins) — the indexes need it. Add **Obsidian Git** too if you'll sync via GitHub.
 4. **Pin** `00. Dashboard` and `00. Vault Rules & Guide`. Read the Rules once.
 
 Prefer Git? `git clone` the repo and open it as a vault instead — same result, with version history.
@@ -54,9 +54,9 @@ Prefer Git? `git clone` the repo and open it as a vault instead — same result,
 ## Requirements
 
 - **Obsidian** (free).
-- **Dataview** plugin — required. The indexes are live Dataview queries; without it they'll render as plain code blocks.
-- **Templater** — recommended, for the note templates.
-- **Obsidian Git** — optional, for GitHub sync.
+- **Dataview** (community plugin) — required. The indexes are live Dataview queries; without it they render as plain code blocks.
+- **Templates** (core plugin, built in) — for the note templates. Enable it and point it at `16. Meta/Templates`.
+- **Obsidian Git** (community plugin) — optional, for GitHub sync.
 
 ## Connect your agent
 
