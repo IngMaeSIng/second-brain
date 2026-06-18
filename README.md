@@ -10,7 +10,7 @@ Models got good. The bottleneck now isn't the model, it's how much context it ha
 
 ## Who it's for
 
-Founders, indie makers, designers, and product people who run a project and want an agent that actually knows it. This is the **project / product** template. A personal-life version is a separate thing — don't mix the two.
+Founders, indie makers, designers, and product people who run a project and want an agent that actually knows it. This is the **project / product** template. A personal-life version is a separate thing, don't mix the two.
 
 ## What's inside
 
